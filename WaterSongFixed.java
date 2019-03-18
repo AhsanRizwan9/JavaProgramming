@@ -5,7 +5,7 @@ public class WaterSongFixed{
 		while (waterNum > 0)
 		{
 			System.out.println(waterNum + " " + word + " Of water on the wall");
-			System.out.println(waterNum + " " + word + " Of wall");
+			System.out.println(waterNum + " " + word + " Of watera");
 			System.out.println("Take one down.");
 			System.out.println("Pass it around.");
 			waterNum = waterNum - 1;
