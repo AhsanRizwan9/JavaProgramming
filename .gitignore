@@ -12,7 +12,7 @@
 #Image File
 *.jpeg
 *.jpg
-*gif
+*.gif
 
 # Package Files #
 *.jar
