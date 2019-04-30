@@ -1,6 +1,6 @@
 class BobbleSort{
 	public static void main(String args[]) {
-		int sort[]={4,3,5,6,7,8,1,2,10,9};
+		int sort[]= new int []{4,3,5,6,7,8,1,2,10,9};
 		int temp;
 		for (int i=0;i<=9 ; i++) {
 			for (int j=0; j<=8;j++ ) {
